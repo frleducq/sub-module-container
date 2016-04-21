@@ -1,0 +1,3 @@
+[submodule "sub-module-container"]
+	path = sub-module-container
+	url = https://github.com/frleducq/sub-module-container.git
